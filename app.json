@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/calculator/calculator",
+    "pages/historylist/historylist"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "简易计算器",
+    "navigationBarTextStyle":"#fff"
+  }
+}
